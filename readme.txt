@@ -1,1 +1,1 @@
-Covid-19 Suvey form
+Registration form
